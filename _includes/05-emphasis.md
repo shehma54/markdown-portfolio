@@ -1,3 +1,2 @@
- ** <_includes/05-emphasis.md >
-
- ** <Shehma54>
+  *This text will be italic* 
+  **This text will be bold**
